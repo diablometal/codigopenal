@@ -1,19 +1,21 @@
 # Código Penal Organizado
 
-## Índice
-
-- [Sección 1: Infracciones de Tráfico](##sección-1-infracciones-de-tráfico)
-- [Sección 2: Conductas Erróneas, Agresiones y Disturbios](##sección-2-conductas-erróneas-agresiones-y-disturbios)
+# Índice
+- [Índice](#Índice)
+- [Sección 1: Infracciones de Tráfico](#sección-1-infracciones-de-tráfico)
+- [Sección 2: Conductas Erróneas, Agresiones y Disturbios](#sección-2-conductas-erróneas-agresiones-y-disturbios)
 - [Sección 3: Tráfico de Estupefacientes, Posesión y Plantación](#sección-3-tráfico-de-estupefacientes-posesión-y-plantación)
 - [Sección 4: Tráfico de Armas de Fuego y Posesión](#sección-4-tráfico-de-armas-de-fuego-y-posesión)
 - [Sección 5: Agresiones y Homicidios](#sección-5-agresiones-y-homicidios)
 - [Sección 6: Delitos Contra la Administración Pública](#sección-6-delitos-contra-la-administración-pública)
 - [Sección 7: Robos y Asaltos](#sección-7-robos-y-asaltos)
 - [Sección 8: Delitos de Administración Pública](#sección-8-delitos-de-administración-pública)
+- [Conclusion](#Conclusión-General-del-Código-Penal)
+- [Implementación y revisión](#Implementación-y-Revisión)
 
 ---
 
-## Sección 1: Infracciones de Tráfico
+# Sección 1: Infracciones de Tráfico
 
 ### Artículo 1.1: Uso excesivo del claxon - 100$
 Uso indebido del claxon en zonas donde el silencio es prioritario o su uso es excesivo sin justificación.
@@ -203,7 +205,7 @@ Provocar un accidente de tráfico y huir del lugar sin proporcionar datos ni asi
 
 ---
 
-## Sección 2: Conductas Erróneas, Agresiones y Disturbios
+# Sección 2: Conductas Erróneas, Agresiones y Disturbios
 
 ### Artículo 2.1: Intento de agresión - 150€
 Intentar agredir físicamente a otra persona sin llegar a causarle daño.
@@ -355,7 +357,7 @@ Emplear vehículos aéreos no tripulados para realizar actividades delictivas o 
 
 ---
 
-## Sección 3: Tráfico de Estupefacientes, Posesión y Plantación
+# Sección 3: Tráfico de Estupefacientes, Posesión y Plantación
 
 ### Artículo 3.1: Posesión de estupefacientes según cantidades
 - Consumo propio: hasta 1kg.
@@ -544,6 +546,8 @@ Sanciones por la venta de subametralladoras Skorpion sin autorización legal.
 ### Artículo 5.6: Tortura - 4.500$
 - Sanciones para los que infligen dolor físico o psicológico de manera intencionada y prolongada.
 
+---
+
 # Sección 6: Delitos Contra la Administración Pública
 
 ### Artículo 6.1.2: Amenaza de muerte a un funcionario - 500$.
@@ -602,7 +606,7 @@ Sanciones económicas y políticas para quienes cometan fraude electoral, subray
 
 ---
 
-## Sección 7: Robos y Asaltos
+# Sección 7: Robos y Asaltos
 
 ### Artículo 7.1: Robo con intimidación a un civil - 1.400$ 
 - Cárcel 3 meses.
@@ -673,7 +677,7 @@ Sanciones económicas y políticas para quienes cometan fraude electoral, subray
 ---
 
 
-## Conclusión General del Código Penal
+# Conclusión General del Código Penal
 
 Este documento ha presentado un resumen exhaustivo de las penalizaciones y sanciones aplicables bajo el código penal actual, abarcando desde infracciones de tráfico hasta delitos graves como el tráfico de estupefacientes y armas, agresiones, homicidios, y delitos contra la administración pública. Cada sección ha sido diseñada para ofrecer una guía clara sobre las consecuencias legales asociadas a cada tipo de delito, asegurando que los ciudadanos y funcionarios comprendan las ramificaciones de sus acciones dentro del marco legal vigente.
 
@@ -693,7 +697,9 @@ Este documento ha presentado un resumen exhaustivo de las penalizaciones y sanci
 
 Cada una de estas secciones hipotéticas continuaría el esfuerzo del código penal por ofrecer una cobertura amplia y detallada de las diversas áreas del derecho penal, adaptándose a los desafíos emergentes y evolucionando según las necesidades de la sociedad.
 
-### Implementación y Revisión
+---
+
+# Implementación y Revisión
 
 Es imperativo que el código penal sea revisado y actualizado periódicamente para reflejar los cambios en la sociedad, la tecnología, y el entorno global. Esto asegura que el marco legal permanezca relevante, efectivo, y justo, proporcionando protección adecuada a los ciudadanos y promoviendo el respeto por la ley.
 
