@@ -407,18 +407,168 @@ Sanciones dirigidas a la plantación ilegal de estupefacientes, con penalidades 
 ## Sección 4: Tráfico de Armas de Fuego y Posesión
 
 ### Artículo 4.1: Uso indebido de armas cortas con licencia - 4500€ + Retirada de la licencia y arma
-...
+Infracciones por el uso no autorizado de armas de fuego cortas, incluso cuando se posee licencia para ellas.
 
-### Artículo 4.7.2: Venta de skorpion - 4.800$
+### Artículo 4.2: Uso indebido de armas cortas sin licencia - 3500€
+Penalizaciones para individuos que utilicen armas de fuego cortas sin la correspondiente licencia.
 
+### Artículo 4.3: Portar armas de bajo calibre
+Especificaciones sobre el porte de armas de bajo calibre, regulado según la legislación vigente.
+
+### Artículo 4.4: Portar Beretta M9 (legal con licencia) - 1.000$
+Normativas y sanciones aplicables al porte de una Beretta M9, siempre que se cuente con la licencia adecuada.
+
+### Artículo 4.5: Portar Colt M1911 (legal con licencia) - 1.500$
+Regulaciones para el porte de una Colt M1911 con la licencia pertinente.
+
+### Artículo 4.6: Portar revólver Lemat (legal con licencia) - 2.000$
+Directrices sobre el porte de un revólver Lemat, requiriendo licencia para su legalidad.
+
+### Artículo 4.7: Portar una TEC-9 (ilegal) - 4.500$
+Sanciones por portar una TEC-9, considerada ilegal independientemente de la posesión de licencia.
+
+### Artículo 4.8: Posesión de arma blanca - 500€
+Multas por la tenencia de armas blancas en condiciones que contravengan la ley.
+
+### Artículo 4.9: Uso indebido de armas largas - 5500€
+Penalidades por el manejo inapropiado de armas de fuego largas, con o sin licencia.
+
+### Artículo 4.10: Iniciar un tiroteo con un arma corta - 5500€
+Consecuencias legales por desencadenar un tiroteo utilizando un arma de fuego corta.
+
+### Artículo 4.11: Iniciar un tiroteo con un arma larga - 6000€
+Sanciones por provocar un tiroteo con el uso de armas de fuego largas.
+
+### Artículo 4.12: Venta ilícita de armas - 25000€
+Multas significativas para aquellos involucrados en la comercialización ilegal de armas de fuego.
+
+### Artículo 4.13: Provocar disturbios con arma de fuego - 1500€
+Sanciones por causar alteraciones al orden público utilizando armas de fuego.
+
+### Artículo 4.14: Provocar disturbios con arma blanca - 1050€
+Penalidades por el uso de armas blancas para generar disturbios o violencia.
+
+### Artículo 4.15: Intento de agresión con arma blanca - 950€
+Infracciones por intentar agredir a alguien con un arma blanca.
+
+### Artículo 4.16: Agresión con arma blanca - 1150€
+Multas aplicables a la agresión física cometida con el uso de armas blancas.
+
+### ARMAS ILEGALES
+
+#### Artículo 4.2.1: Portar AK47 - 3.500$ + retirada
+Sanciones por el porte ilegal de un fusil AK47, incluyendo la confiscación del arma.
+
+#### Artículo 4.2.2: Portar Skorpion - 3.000$ + retirada
+Penalizaciones por tener en posesión una subametralladora Skorpion sin autorización legal.
+
+### Artículo 4.3: Portar armas de alto calibre
+Detalles sobre la regulación del porte de armas de alto calibre, sujetas a leyes específicas.
+
+#### Artículo 4.3.1: Portar una Remington MSR - 5.000$ + retirada
+Consecuencias por la posesión ilegal de un rifle de precisión Remington MSR.
+
+#### Artículo 4.3.2: Portar una Remington 870 - 4.500$ +retirada
+Sanciones por llevar consigo una escopeta Remington 870 sin cumplir con los requisitos legales.
+
+#### Artículo 4.3.3: Portar una Desert Eagle - 3.500$ +retirada
+Multas por el porte de una pistola Desert Eagle de manera ilegal.
+
+#### Artículo 4.3.4: Portar una M249 - 12.000$ +retirada
+Penalidades por la tenencia ilegítima de una ametralladora M249.
+
+### TRÁFICO DE ARMAS
+
+#### Artículo 4.5.1: Venta de una PPSH-41 - 6.000$
+Sanciones destinadas a quienes comercialicen ilegalmente la subametralladora PPSH-41.
+
+#### Artículo 4.5.2: Venta de una M14 - 4.800$
+Multas aplicadas a la venta no autorizada de rifles M14.
+
+### Artículo 4.6: Venta de armas de alto calibre
+Regulaciones y sanciones específicas para la comercialización ilegal de armas de alto calibre.
+
+#### Artículo 4.6.2: Venta de Remington MSR - 6.500$
+Penalizaciones por la venta ilícita de rifles de precisión Remington MSR.
+
+#### Artículo 4.6.3: Venta de Remington 870 - 5.500$
+Multas por comercializar escopetas Remington 870 sin seguir los procedimientos legales.
+
+### Artículo 4.7: Venta de armas automáticas
+Normativas y sanciones para la venta de armas automáticas, reguladas por leyes estrictas.
+
+#### Artículo 4.7.1: Venta de AK47 - 5.500$
+Consecuencias legales para la distribución ilegal de fusiles AK47.
+
+#### Artículo 4.7.2: Venta de Skorpion - 4.800$
+Sanciones por la venta de subametralladoras Skorpion sin autorización legal.
+
+ 
 ---
 
 ## Sección 5: Agresiones y Homicidios
 
-### Artículo 5.0.1.1: Intento de agresión a un civil - 2.500$
-...
+### Artículo 5.0.1: Agresiones a civiles
+- **Artículo 5.0.1.1**: Intento de agresión a un civil - 2.500$
+    - Penalizaciones para intentos de agresión física sin consumar contra personas no involucradas en conflictos legales o criminales.
+
+### Artículo 5.1: Intento de secuestro a un civil - 2.500$
+- Sanciones aplicables a los intentos de secuestrar a individuos, independientemente de si el secuestro se lleva a cabo.
+
+### Artículo 5.2: Secuestro a un civil - 6.500$
+- Multas y posibles penas de prisión para los responsables de secuestrar a civiles.
+
+### Artículo 5.3: Intento de homicidio - 3.500$
+- Penalizaciones para individuos que intentan cometer homicidio sin lograr su objetivo.
+
+### Artículo 5.3.3: Intento de homicidio a múltiples civiles - 7.000$ (por cada civil)
+- Sanciones incrementadas por cada intento de homicidio dirigido a más de una persona.
+
+### Artículo 5.4: Homicidio a un civil - 15.000$
+- Multas severas y penas de prisión para quienes cometan homicidio contra civiles.
+
+### Artículo 5.4.2: Homicidio a varios civiles - 10.000$ (por cada civil)
+- Penas aumentadas por cada persona asesinada en actos de homicidio múltiple.
+
+### Artículo 5.5: Delito de Violencia de Género - 1.500$ más orden de alejamiento revisable y asistencia obligatoria a sesiones con un psicólogo
+- Medidas específicas contra quienes cometan actos de violencia de género, incluyendo restricciones de contacto y rehabilitación obligatoria.
 
 ### Artículo 5.6: Tortura - 4.500$
+- Sanciones para los que infligen dolor físico o psicológico de manera intencionada y prolongada.
+
+## Sección 6: Delitos Contra la Administración Pública
+
+### Artículo 6.1.2: Amenaza de muerte a un funcionario - 500$.
+- Penalizaciones para quienes amenacen de muerte a funcionarios públicos.
+
+### Artículo 6.1.2.2: Agresión a un funcionario - 1.000€.
+- Multas para los que agredan físicamente a funcionarios en el ejercicio de sus funciones.
+
+### Artículo 6.1.3: Desacato a la ley - 300$
+- Sanciones para actos de desobediencia o falta de respeto a las leyes vigentes.
+
+### Artículo 6.1.4: Resistirse al arresto - 250$
+- Penalizaciones para individuos que se resisten a ser detenidos por las autoridades.
+
+### Artículo 6.2: Huir de la justicia - 500$
+- Multas aplicadas a quienes evadan la captura o el juicio.
+
+### Artículo 6.3: Falso testimonio - 1.000$
+- Sanciones para aquellos que mientan o distorsionen la verdad en procesos judiciales.
+
+### Artículo 6.4: Secuestros y homicidios:
+    - **Artículo 6.4.1**: Secuestro a un funcionario público - 4.500$
+    - **Artículo 6.4.2**: Amenazar a un funcionario público a mano armada - 2.500$
+    - **Artículo 6.4.3**: Intento de homicidio a un funcionario público - 10.000$
+    - **Artículo 6.4.4**: Homicidio a un funcionario público - 13.000$
+    - **Artículo 6.4.5**: Homicidio a múltiples funcionarios públicos - 14.500$ (por funcionario)
+        - Con penas de cárcel que varían entre 10 y 15 años dependiendo de la gravedad del delito.
+    - **Artículo 6.4.6**: Robos de secreto de estado - Cadena perpetua
+    - **Artículo 6.4.7**: Atentado a la autoridad - 4.700$
+    - **Artículo 6.4.8**: Intento de rebelión o Golpe de Estado fallido - 75.000$ y Prisión Permanente
+    - **Artículo 6.4.9**: Atentado Terrorista, o atentado a la presidencia con arma de fuego o explosivo - 100.000$ y cadena perpetua.
+    - **Artículo 6.4.10**: Fraude electoral - 50.000$ más retirada del partido político.
+
 
 ---
 
