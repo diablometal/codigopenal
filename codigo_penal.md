@@ -358,9 +358,49 @@ Emplear vehículos aéreos no tripulados para realizar actividades delictivas o 
 ## Sección 3: Tráfico de Estupefacientes, Posesión y Plantación
 
 ### Artículo 3.1: Posesión de estupefacientes según cantidades
-...
+- Consumo propio: hasta 1kg.
+- Más de 10kg se considera tráfico de drogas.
 
-### Artículo 3.9.5: Plantación de cualquier otro estupefaciente por kg - 6.000$
+### Artículo 3.1.1: Porros/Marihuana - 100€ por cada 1kg por encima del límite.
+Sanciones por posesión de marihuana que exceda el límite permitido para consumo personal.
+
+### Artículo 3.1.2: Cocaína - 150€ por cada 1kg por encima del límite.
+Multas aplicables a la posesión de cantidades de cocaína superiores a las consideradas para uso personal.
+
+### Artículo 3.1.3: Metanfetamina - 200€ por cada 10kg por encima del límite.
+Penalizaciones por tener metanfetaminas en cantidades que sugieren distribución o venta.
+
+### Artículo 3.3: Tráfico de drogas - 10.000€ por cada 10kg de sustancia estupefaciente.
+Multas severas destinadas a individuos involucrados en la distribución o venta ilegal de drogas.
+
+### Artículo 3.4: Consumo de estupefaciente en vía pública - 750€.
+Sanciones por el consumo de cualquier tipo de droga en espacios públicos.
+
+### Artículo 3.5: Huir de la justicia por posesión de sustancias estupefacientes - 5.000€ más la sanción de superar el límite sustancias o tráfico de droga.
+Penalidades adicionales para aquellos que evadan a las autoridades siendo encontrados en posesión de drogas.
+
+### Artículo 3.6: Vender sustancia estupefaciente ilegalmente en el momento de la detención - 5.000€ - 10.000€.
+Multas aplicables a individuos capturados en el acto de vender drogas.
+
+### Artículo 3.7: Venta de marihuana o cannabis por kg - 2.500$
+Sanciones específicas para la venta ilegal de marihuana o cannabis por kilogramo.
+
+### Artículo 3.8: Venta de cachimba o hachís por kg - 3.000$
+Multas establecidas para la distribución ilegal de hachís por kilogramo.
+
+### Artículo 3.9: Venta de falopa o cocaína por kg - 3.250$
+Penalizaciones para aquellos que vendan cocaína ilegalmente por kilogramo.
+
+### Artículo 3.7.2: Venta de cualquier otro estupefaciente por kg - 3.500$
+Multas aplicadas a la venta ilegal de cualquier tipo de droga no especificada anteriormente por kilogramo.
+
+### Artículo 3.9.1 PLANTACIÓN
+- **Artículo 3.9.2**: Plantación de marihuana o cannabis por kg - 5.000$
+- **Artículo 3.9.3**: Plantación de cachimba o hachís por kg - 5.500$
+- **Artículo 3.9.4**: Plantación de falopa o cocaína por kg - 5.750$
+- **Artículo 3.9.5**: Plantación de cualquier otro estupefaciente por kg - 6.000$
+
+Sanciones dirigidas a la plantación ilegal de estupefacientes, con penalidades incrementadas según el tipo y cantidad de droga. Estas medidas están diseñadas para combatir la producción a gran escala, diferenciando entre tipos de sustancias para reflejar su variada gravedad y riesgo para la sociedad.
 
 ---
 
