@@ -2,8 +2,8 @@
 
 ## Índice
 
-- [Sección 1: Infracciones de Tráfico](#sección-1-infracciones-de-tráfico)
-- [Sección 2: Conductas Erróneas, Agresiones y Disturbios](#sección-2-conductas-erróneas-agresiones-y-disturbios)
+- [Sección 1: Infracciones de Tráfico](##sección-1-infracciones-de-tráfico)
+- [Sección 2: Conductas Erróneas, Agresiones y Disturbios](##sección-2-conductas-erróneas-agresiones-y-disturbios)
 - [Sección 3: Tráfico de Estupefacientes, Posesión y Plantación](#sección-3-tráfico-de-estupefacientes-posesión-y-plantación)
 - [Sección 4: Tráfico de Armas de Fuego y Posesión](#sección-4-tráfico-de-armas-de-fuego-y-posesión)
 - [Sección 5: Agresiones y Homicidios](#sección-5-agresiones-y-homicidios)
@@ -394,17 +394,25 @@ Penalizaciones para aquellos que vendan cocaína ilegalmente por kilogramo.
 ### Artículo 3.7.2: Venta de cualquier otro estupefaciente por kg - 3.500$
 Multas aplicadas a la venta ilegal de cualquier tipo de droga no especificada anteriormente por kilogramo.
 
-### Artículo 3.9.1 PLANTACIÓN
-- **Artículo 3.9.2**: Plantación de marihuana o cannabis por kg - 5.000$
-- **Artículo 3.9.3**: Plantación de cachimba o hachís por kg - 5.500$
-- **Artículo 3.9.4**: Plantación de falopa o cocaína por kg - 5.750$
-- **Artículo 3.9.5**: Plantación de cualquier otro estupefaciente por kg - 6.000$
+### Artículo 3.9.1: Plantación
+
+#### Artículo 3.9.2: Plantación de marihuana o cannabis por kg - 5.000$
+Sanciones impuestas por la plantación de marihuana o cannabis que exceda los límites legales permitidos, con un enfoque en la producción a gran escala.
+
+#### Artículo 3.9.3: Plantación de cachimba o hachís por kg - 5.500$
+Penalizaciones para la cultivación ilegal de hachís, reflejando la gravedad de producir y distribuir esta sustancia controlada.
+
+### Artículo 3.9.4: Plantación de falopa o cocaína por kg - 5.750$
+Multas establecidas para aquellos involucrados en la plantación y procesamiento de plantas de coca, destacando las severas consecuencias de contribuir al mercado de la cocaína.
+
+### Artículo 3.9.5: Plantación de cualquier otro estupefaciente por kg - 6.000$
+Sanciones generales para la plantación de cualquier otro tipo de estupefacientes no mencionados específicamente, asegurando una cobertura amplia del control sobre la producción de drogas ilegales.
 
 Sanciones dirigidas a la plantación ilegal de estupefacientes, con penalidades incrementadas según el tipo y cantidad de droga. Estas medidas están diseñadas para combatir la producción a gran escala, diferenciando entre tipos de sustancias para reflejar su variada gravedad y riesgo para la sociedad.
 
 ---
 
-## Sección 4: Tráfico de Armas de Fuego y Posesión
+# Sección 4: Tráfico de Armas de Fuego y Posesión
 
 ### Artículo 4.1: Uso indebido de armas cortas con licencia - 4500€ + Retirada de la licencia y arma
 Infracciones por el uso no autorizado de armas de fuego cortas, incluso cuando se posee licencia para ellas.
@@ -454,59 +462,59 @@ Infracciones por intentar agredir a alguien con un arma blanca.
 ### Artículo 4.16: Agresión con arma blanca - 1150€
 Multas aplicables a la agresión física cometida con el uso de armas blancas.
 
-### ARMAS ILEGALES
+## ARMAS ILEGALES
 
-#### Artículo 4.2.1: Portar AK47 - 3.500$ + retirada
+### Artículo 4.2.1: Portar AK47 - 3.500$ + retirada
 Sanciones por el porte ilegal de un fusil AK47, incluyendo la confiscación del arma.
 
-#### Artículo 4.2.2: Portar Skorpion - 3.000$ + retirada
+### Artículo 4.2.2: Portar Skorpion - 3.000$ + retirada
 Penalizaciones por tener en posesión una subametralladora Skorpion sin autorización legal.
 
 ### Artículo 4.3: Portar armas de alto calibre
 Detalles sobre la regulación del porte de armas de alto calibre, sujetas a leyes específicas.
 
-#### Artículo 4.3.1: Portar una Remington MSR - 5.000$ + retirada
+### Artículo 4.3.1: Portar una Remington MSR - 5.000$ + retirada
 Consecuencias por la posesión ilegal de un rifle de precisión Remington MSR.
 
-#### Artículo 4.3.2: Portar una Remington 870 - 4.500$ +retirada
+### Artículo 4.3.2: Portar una Remington 870 - 4.500$ +retirada
 Sanciones por llevar consigo una escopeta Remington 870 sin cumplir con los requisitos legales.
 
-#### Artículo 4.3.3: Portar una Desert Eagle - 3.500$ +retirada
+### Artículo 4.3.3: Portar una Desert Eagle - 3.500$ +retirada
 Multas por el porte de una pistola Desert Eagle de manera ilegal.
 
 #### Artículo 4.3.4: Portar una M249 - 12.000$ +retirada
 Penalidades por la tenencia ilegítima de una ametralladora M249.
 
-### TRÁFICO DE ARMAS
+## TRÁFICO DE ARMAS
 
-#### Artículo 4.5.1: Venta de una PPSH-41 - 6.000$
+### Artículo 4.5.1: Venta de una PPSH-41 - 6.000$
 Sanciones destinadas a quienes comercialicen ilegalmente la subametralladora PPSH-41.
 
-#### Artículo 4.5.2: Venta de una M14 - 4.800$
+### Artículo 4.5.2: Venta de una M14 - 4.800$
 Multas aplicadas a la venta no autorizada de rifles M14.
 
 ### Artículo 4.6: Venta de armas de alto calibre
 Regulaciones y sanciones específicas para la comercialización ilegal de armas de alto calibre.
 
-#### Artículo 4.6.2: Venta de Remington MSR - 6.500$
+### Artículo 4.6.2: Venta de Remington MSR - 6.500$
 Penalizaciones por la venta ilícita de rifles de precisión Remington MSR.
 
-#### Artículo 4.6.3: Venta de Remington 870 - 5.500$
+### Artículo 4.6.3: Venta de Remington 870 - 5.500$
 Multas por comercializar escopetas Remington 870 sin seguir los procedimientos legales.
 
 ### Artículo 4.7: Venta de armas automáticas
 Normativas y sanciones para la venta de armas automáticas, reguladas por leyes estrictas.
 
-#### Artículo 4.7.1: Venta de AK47 - 5.500$
+### Artículo 4.7.1: Venta de AK47 - 5.500$
 Consecuencias legales para la distribución ilegal de fusiles AK47.
 
-#### Artículo 4.7.2: Venta de Skorpion - 4.800$
+### Artículo 4.7.2: Venta de Skorpion - 4.800$
 Sanciones por la venta de subametralladoras Skorpion sin autorización legal.
 
  
 ---
 
-## Sección 5: Agresiones y Homicidios
+# Sección 5: Agresiones y Homicidios
 
 ### Artículo 5.0.1: Agresiones a civiles
 - **Artículo 5.0.1.1**: Intento de agresión a un civil - 2.500$
@@ -536,7 +544,7 @@ Sanciones por la venta de subametralladoras Skorpion sin autorización legal.
 ### Artículo 5.6: Tortura - 4.500$
 - Sanciones para los que infligen dolor físico o psicológico de manera intencionada y prolongada.
 
-## Sección 6: Delitos Contra la Administración Pública
+# Sección 6: Delitos Contra la Administración Pública
 
 ### Artículo 6.1.2: Amenaza de muerte a un funcionario - 500$.
 - Penalizaciones para quienes amenacen de muerte a funcionarios públicos.
@@ -556,43 +564,138 @@ Sanciones por la venta de subametralladoras Skorpion sin autorización legal.
 ### Artículo 6.3: Falso testimonio - 1.000$
 - Sanciones para aquellos que mientan o distorsionen la verdad en procesos judiciales.
 
-### Artículo 6.4: Secuestros y homicidios:
-    - **Artículo 6.4.1**: Secuestro a un funcionario público - 4.500$
-    - **Artículo 6.4.2**: Amenazar a un funcionario público a mano armada - 2.500$
-    - **Artículo 6.4.3**: Intento de homicidio a un funcionario público - 10.000$
-    - **Artículo 6.4.4**: Homicidio a un funcionario público - 13.000$
-    - **Artículo 6.4.5**: Homicidio a múltiples funcionarios públicos - 14.500$ (por funcionario)
-        - Con penas de cárcel que varían entre 10 y 15 años dependiendo de la gravedad del delito.
-    - **Artículo 6.4.6**: Robos de secreto de estado - Cadena perpetua
-    - **Artículo 6.4.7**: Atentado a la autoridad - 4.700$
-    - **Artículo 6.4.8**: Intento de rebelión o Golpe de Estado fallido - 75.000$ y Prisión Permanente
-    - **Artículo 6.4.9**: Atentado Terrorista, o atentado a la presidencia con arma de fuego o explosivo - 100.000$ y cadena perpetua.
-    - **Artículo 6.4.10**: Fraude electoral - 50.000$ más retirada del partido político.
+### Artículo 6.4: Secuestros y homicidios
+#### Artículo 6.4.1: Secuestro a un funcionario público - 4.500$
+Penalizaciones para los responsables de secuestrar a funcionarios públicos, reflejando la gravedad de atentar contra representantes del estado.
 
+#### Artículo 6.4.2: Amenazar a un funcionario público a mano armada - 2.500$
+Sanciones para quienes amenacen la integridad física de funcionarios públicos utilizando armas, destacando la seriedad de comprometer la seguridad de servidores del estado.
 
----
+#### Artículo 6.4.3: Intento de homicidio a un funcionario público - 10.000$
+Multas y posibles penas de cárcel para intentos de homicidio contra funcionarios públicos, subrayando la protección legal hacia los servidores del estado.
 
-## Sección 6: Delitos Contra la Administración Pública
+#### Artículo 6.4.4: Homicidio a un funcionario público - 13.000$
+Sanciones severas para el homicidio de funcionarios públicos, enfatizando el alto valor que la sociedad coloca en la seguridad de sus representantes.
 
-### Artículo 6.1.2: Amenaza de muerte a un funcionario - 500$
-...
+#### Artículo 6.4.5: Homicidio a múltiples funcionarios públicos - 14.500$ (por funcionario)
+Penalizaciones incrementadas por cada funcionario público asesinado, reflejando el aumento de la gravedad con el número de víctimas.
 
-### Artículo 6.4.10: Fraude electoral - 50.000$ más retirada del partido político
+- Con penas de cárcel que varían entre 10 y 15 años dependiendo de la gravedad del delito.
+
+#### Artículo 6.4.6: Robos de secreto de estado - Cadena perpetua
+Sanciones máximas para aquellos que roben o divulguen secretos de estado, protegiendo la seguridad nacional.
+
+#### Artículo 6.4.7: Atentado a la autoridad - 4.700$
+Multas para actos que busquen desestabilizar o atentar contra la autoridad del estado o sus representantes.
+
+#### Artículo 6.4.8: Intento de rebelión o Golpe de Estado fallido - 75.000$ y Prisión Permanente
+Penalizaciones severas para intentos de subvertir o derrocar por la fuerza el orden constitucional establecido.
+
+#### Artículo 6.4.9: Atentado Terrorista, o atentado a la presidencia con arma de fuego o explosivo - 100.000$ y cadena perpetua
+Las máximas sanciones aplicables a actos terroristas, especialmente aquellos dirigidos contra la presidencia o el gobierno, asegurando la protección máxima a la figura presidencial y la estabilidad del estado.
+
+#### Artículo 6.4.10: Fraude electoral - 50.000$ más retirada del partido político
+Sanciones económicas y políticas para quienes cometan fraude electoral, subrayando la importancia de la integridad y transparencia en el proceso democrático.
+
+### Artículo 6.5: Impago de multas
+- Cada multa impagada se acumulará en la base de datos de la policía. Si se superan los 60.000$ impagados, la policía podrá retirar un bien a esa persona (ya sea coche, hogar, etc.). Si se superan los 250.000$ y esa persona no se entrega, se le pondrá en busca y captura.
 
 ---
 
 ## Sección 7: Robos y Asaltos
 
-### Artículo 7.1: Robo con intimidación a un civil - 1.400$ cárcel 3 meses
-...
+### Artículo 7.1: Robo con intimidación a un civil - 1.400$ 
+- Cárcel 3 meses.
+- Penalización por robar a un civil mediante el uso de intimidación sin violencia física.
 
-### Artículo 7.9: Fraude Fiscal - 40.000$ cárcel 2 años
+### Artículo 7.2: Robo con violencia a un civil - 2.800$
+- Cárcel 6 meses.
+- Sanciones para los que cometan robos a civiles utilizando violencia física.
+
+### Artículo 7.4: Robo menor - 3.700$
+- Cárcel un año.
+- Aplicable a robos de baja cuantía en establecimientos como gasolineras o armerías.
+
+### Artículo 7.5: Robo medio - 5.000$
+- Cárcel 5 años.
+- Incluye robos en establecimientos con mayores medidas de seguridad como tiendas de herramientas.
+
+### Artículo 7.6: Robo joyería - 6.000$
+- Cárcel 13 años.
+- Penalizaciones para el robo en joyerías, considerado de alta gravedad por el valor de los objetos.
+
+### Artículo 7.7: Robo mayor - 20.000$
+- Cárcel 30 años.
+- Se aplica a robos de gran cuantía como en bancos.
+
+### Artículo 7.8: Allanamiento de propiedad privada - 1.500$
+- Cárcel 3 años.
+- Sanciones para quienes ingresen sin autorización a propiedades privadas con intención de cometer un delito.
+
+### Artículo 7.9: Fraude Fiscal - 40.000$
+- Cárcel 2 años.
+- Penalización por evadir el pago de impuestos a través de métodos fraudulentos.
 
 ---
 
-## Sección 8: Delitos de Administración Pública
+# Sección 8: Delitos de Administración Pública
 
 ### Artículo 8.1: Realizar un cacheo sin causa justificada a un civil - 1.000$
-...
+- Penalizaciones para funcionarios que realicen registros personales sin motivación legal.
 
-### Artículo 9.9: Chocar con una Farola o Semaforo - 2.000$ al estado por daños
+### Artículo 8.2: Ebrio o bajo los efectos de estupefacientes de servicio - 4.000$
+- Multa aplicable a funcionarios que se encuentren bajo la influencia de alcohol o drogas durante su servicio.
+
+### Artículo 8.3: Vender o regalar sustancias/objetos incautadas - 25.000$
+- Sanciones severas para funcionarios que dispongan ilegalmente de objetos incautados en operativos.
+
+### Artículo 8.4: Aliarse a una organización criminal con el fin de cometer algún delito - 40.000$
+- Penalizaciones para miembros de la administración pública que colaboren con organizaciones criminales.
+
+### Artículo 8.5: Malversación de fondos del estado - 50.000$
+- Multa para aquellos que desvíen fondos públicos para uso personal o no autorizado.
+
+### Artículo 8.6: Denegación de auxilio - 20.000$
+- Sanciones para funcionarios que se nieguen a prestar asistencia obligatoria por ley.
+
+### Artículo 8.7: Acoso a civiles, agresiones - 10.000$
+- Multas para funcionarios que ejerzan acoso o agresión hacia civiles.
+
+### Artículo 8.8: Usar el Taser de forma irresponsable - 10.000$
+- Penalización por el uso indebido de armas de electrochoque por parte de funcionarios.
+
+### Artículo 8.9: Dañar a un Civil por descarga eléctrica por una irresponsabilidad - 5.000€ a la persona afectada.
+- Indemnización obligatoria a civiles dañados por el uso negligente de tasers o similares.
+
+### Artículo 8.9.1: Corrupción - expulsión + 100.000$ + prisión permanente revisable.
+- Sanciones severas para actos de corrupción que incluyen la expulsión del cargo, multas económicas y penas de prisión.
+
+---
+
+
+## Conclusión General del Código Penal
+
+Este documento ha presentado un resumen exhaustivo de las penalizaciones y sanciones aplicables bajo el código penal actual, abarcando desde infracciones de tráfico hasta delitos graves como el tráfico de estupefacientes y armas, agresiones, homicidios, y delitos contra la administración pública. Cada sección ha sido diseñada para ofrecer una guía clara sobre las consecuencias legales asociadas a cada tipo de delito, asegurando que los ciudadanos y funcionarios comprendan las ramificaciones de sus acciones dentro del marco legal vigente.
+
+### Secciones Futuras (Hipotéticas)
+
+- **Sección 9: Delitos Informáticos y Ciberseguridad**
+    - Abordaría temas como el fraude electrónico, hacking, phishing, difusión de malware, y violaciones de datos personales, estableciendo sanciones para quienes comprometan la integridad de sistemas informáticos y la privacidad de los usuarios.
+
+- **Sección 10: Delitos Ambientales**
+    - Detallaría sanciones para delitos contra el medio ambiente, incluyendo la contaminación, destrucción de hábitats naturales, tráfico de especies protegidas, y violaciones de normativas sobre residuos y emisiones.
+
+- **Sección 11: Protección de la Propiedad Intelectual**
+    - Establecería las bases legales para la protección de derechos de autor, patentes, marcas, y otros activos intelectuales, penalizando la piratería, la copia no autorizada, y la explotación ilegal de obras protegidas.
+
+- **Sección 12: Delitos contra la Salud Pública**
+    - Incluiría disposiciones sobre la fabricación, distribución, y venta de productos farmacéuticos sin licencia, adulteración de alimentos y medicamentos, y otros actos que pongan en riesgo la salud colectiva.
+
+Cada una de estas secciones hipotéticas continuaría el esfuerzo del código penal por ofrecer una cobertura amplia y detallada de las diversas áreas del derecho penal, adaptándose a los desafíos emergentes y evolucionando según las necesidades de la sociedad.
+
+### Implementación y Revisión
+
+Es imperativo que el código penal sea revisado y actualizado periódicamente para reflejar los cambios en la sociedad, la tecnología, y el entorno global. Esto asegura que el marco legal permanezca relevante, efectivo, y justo, proporcionando protección adecuada a los ciudadanos y promoviendo el respeto por la ley.
+
+La implementación de estas leyes requiere la colaboración entre las instituciones judiciales, las fuerzas del orden, y la comunidad en general, fomentando un entorno seguro y justo para todos.
+
