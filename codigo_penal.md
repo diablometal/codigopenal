@@ -201,13 +201,157 @@ Causar el fallecimiento de una o más personas por no respetar la señalización
 ### Artículo 1.63: Ocasionar un accidente y darse a la fuga - 500$
 Provocar un accidente de tráfico y huir del lugar sin proporcionar datos ni asistencia.
 
+---
 
 ## Sección 2: Conductas Erróneas, Agresiones y Disturbios
 
 ### Artículo 2.1: Intento de agresión - 150€
-...
+Intentar agredir físicamente a otra persona sin llegar a causarle daño.
 
-### Artículo 2.47: Volar una aeronave no tripulada por zonas restringidas/privadas - 1250€ + Retirada de la Licencia
+### Artículo 2.2: Agresión a un civil - 350€
+Ejecutar una agresión física que resulte en lesiones a un individuo no involucrado en actividades policiales o de seguridad.
+
+### Artículo 2.3: Agresión a un bombero - 450€
+Atacar físicamente a un bombero durante el ejercicio de sus funciones, afectando la seguridad y respuesta en emergencias.
+
+### Artículo 2.4: Agresión a un médico - 450€
+Agredir físicamente a personal médico o sanitario en el cumplimiento de sus tareas.
+
+### Artículo 2.5: Agresión a un policía - 1000€
+Realizar una agresión física contra un miembro de las fuerzas del orden en el ejercicio de sus funciones.
+
+### Artículo 2.6: Agresión a un fiscal - 2000€
+Efectuar una agresión física contra un fiscal durante o por razón de sus actividades profesionales.
+
+### Artículo 2.7: Agresión a un abogado - 400€
+Agredir físicamente a un abogado en relación con su ejercicio profesional.
+
+### Artículo 2.8: Agresión a un juez - 1500€
+Cometer una agresión física contra un juez en el contexto de su actividad judicial.
+
+### Artículo 2.9: Alteración del orden público - 475€
+Participar en actos que perturben significativamente la paz y el orden público.
+
+### Artículo 2.10: Racismo - 100€
+Manifestar conductas o expresiones de carácter racista que atenten contra la dignidad de las personas.
+
+### Artículo 2.11: Homofobia - 100€
+Realizar actos o pronunciar palabras de índole homofóbica, discriminando a personas por su orientación sexual.
+
+### Artículo 2.12: Acoso - 250€
+Ejercer presión continua o persecución a una persona, afectando su libertad y bienestar.
+
+### Artículo 2.13: Acoso inmobiliario - 275€
+Presionar de manera indebida a inquilinos o propietarios para lograr objetivos relacionados con la propiedad inmobiliaria.
+
+### Artículo 2.14: Acoso laboral - 350€
+Realizar actos que constituyan presión, intimidación o maltrato psicológico contra otros en el entorno laboral.
+
+### Artículo 2.15: Acoso psicológico - 750€
+Infligir daño emocional o psicológico a una persona a través de la intimidación, manipulación o amenazas.
+
+### Artículo 2.16: Acoso mediante coacción - 1750€
+Utilizar la fuerza o intimidación para obligar a alguien a realizar o abstenerse de realizar ciertos actos.
+
+### Artículo 2.17: Acoso sexual - 1800€
+Realizar comportamientos de naturaleza sexual no consentidos que causen incomodidad o coacción a la víctima.
+
+### Artículo 2.18: Intento de violación - 2700€
+Intentar forzar a una persona a tener relaciones sexuales sin su consentimiento.
+
+### Artículo 2.19: Abuso sexual - 2500€
+Realizar actos sexuales con una persona sin su consentimiento, sin llegar a consumar la violación.
+
+### Artículo 2.20: Violación - 17000€
+Forzar a alguien a tener relaciones sexuales contra su voluntad, empleando violencia física o intimidación.
+
+### Artículo 2.21: Suplantación de identidad - 3000€
+Hacerse pasar por otra persona con cualquier fin sin su consentimiento.
+
+### Artículo 2.22: Suplantación de identidad para inculpar a un civil - 12500€
+Usar la identidad de otro con el objetivo de atribuirle falsamente la comisión de un delito.
+
+### Artículo 2.23: Tráfico de personas - 10500€ (por cada persona)
+Comercializar, trasladar o retener a personas contra su voluntad para explotarlas laboral, sexual o económicamente.
+
+### Artículo 2.24: Tráfico de menores - 12500€ (por cada persona)
+Realizar acciones de tráfico que involucren a menores de edad, con fines de explotación.
+
+### Artículo 2.25: Maltrato - 550€
+Infligir daño físico o emocional a otra persona de manera intencional.
+
+### Artículo 2.26: Maltrato animal - 450€
+Causar daño o sufrimiento innecesario a animales domésticos o salvajes en cautividad.
+
+### Artículo 2.27: Maltrato psicológico - 1200€
+Ejercer violencia emocional o psicológica que afecte significativamente la salud mental de la víctima.
+
+### Artículo 2.28: Violencia de género - 1450€
+Ejercer cualquier forma de violencia física, psicológica o sexual contra las mujeres por el hecho de serlo.
+
+### Artículo 2.29: Intento de agresión a un menor de edad - 2950€
+Intentar cometer actos de violencia física contra niños o adolescentes.
+
+### Artículo 2.30: Prostitución en locales no diseñados para esa actividad - 9925€ + Cierre del local.
+Facilitar o promover la prostitución en establecimientos no autorizados para dicho fin.
+
+### Artículo 2.31: Disturbios en la vía pública - 500-12500€ (Dependiendo de la gravedad)
+Participar en actos que generen desorden o violencia en espacios públicos, afectando la paz social.
+
+### Artículo 2.32: Disturbios en una propiedad privada - 11000€ (Dependiendo de la gravedad)
+Causar altercados o daños en propiedades privadas, perturbando la tranquilidad y seguridad de sus ocupantes.
+
+### Artículo 2.33: Comercialización ilegal - 670€ + Incautar lo vendido.
+Vender productos o servicios sin la autorización correspondiente o incumpliendo la normativa vigente.
+
+### Artículo 2.34: Intentar convencer a alguien para que haga un delito - 3000€
+Influir en otra persona para que cometa un acto delictivo.
+
+### Artículo 2.35: Convencer a alguien para que haga un delito - 6000€
+Lograr que otra persona realice una acción ilegal a través de persuasión o coacción.
+
+### Artículo 2.36: Conducta violenta - 250€.
+Manifestar comportamiento agresivo o violento que pueda intimidar o poner en riesgo a otros.
+
+### Artículo 2.37: Pertenecer a una banda u organización ilegal peligrosa - 85000€ + cadena perpetua
+Ser miembro activo de un grupo delictivo organizado con objetivos que atentan contra la seguridad y el orden público.
+
+### Artículo 2.38: Realizar una manifestación ilegal - 2000€
+Organizar o participar en una reunión pública sin la autorización requerida, causando alteraciones.
+
+### Artículo 2.39: Participar en una manifestación ilegal - 1000€
+Unirse a actos de protesta o manifestación que no cuenten con el permiso correspondiente.
+
+### Artículo 2.40: Ir desnudo por la vía pública - 500€
+Exhibicionismo o desnudez en espacios públicos sin justificación legal.
+
+### Artículo 2.41: Ir enmascarado sin motivo - 750€
+Cubrirse el rostro en público sin razones que lo justifiquen, pudiendo generar alarma o confusión.
+
+### Artículo 2.42: Ir enmascarado para evitar reconocimiento y realizar actividades ilícitas - 1200€
+Usar máscaras o cubrir el rostro para cometer actos delictivos evitando la identificación.
+
+### Artículo 2.43: Suplantación de identidad de un funcionario público - 5000€
+Fingir ser un empleado o representante del estado con el fin de engañar o cometer un delito.
+
+### Artículo 2.44: Suplantación de identidad de un policía mediante una placa - 7500€
+Usar insignias o identificaciones falsas para hacerse pasar por agente de la ley.
+
+### Artículo 2.45: Insulto hacia un funcionario público - 150€
+Dirigir ofensas verbales o gestuales a empleados del estado en el ejercicio de sus funciones.
+
+### Artículo 2.46: Uso de una aeronave no tripulada sin licencia - 170€
+Operar drones o vehículos aéreos no tripulados sin la autorización reglamentaria.
+
+### Artículo 2.47: Volar una aeronave no tripulada por zonas restringidas/privadas - 1250€ + Retirada de la Licencia.
+Manejar drones en áreas prohibidas, como aeropuertos, instalaciones militares o zonas de privacidad restringida.
+
+### Artículo 2.48: Alterar el orden en una detención con una aeronave no tripulada - 950€ + Retirada de la Licencia.
+Usar drones para interferir o complicar procedimientos policiales o de rescate.
+
+### Artículo 2.49: Utilizar una aeronave no tripulada con fines ilícitos - 500€ + Retirada de la Licencia.
+Emplear vehículos aéreos no tripulados para realizar actividades delictivas o violar la privacidad.
+
 
 ---
 
